@@ -112,6 +112,7 @@ dashboards for operational decision-making.
     ├── Flipkart_Warehouses.csv        # Warehouses dataset
     ├── Flipkart_DeliveryAgents.csv    # Delivery agents dataset
     ├── Flipkart_ShipmentTracking.csv  # Shipment tracking dataset
+    ├── SQL Project_Queries.PDF        # Details of all the queries
     └── README.md
 
 ---
